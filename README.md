@@ -2,7 +2,7 @@
 
 Hi everyone,
 
-I wanted to let you know that I had to set the old Git repository to private for specific reasons related to data integrity and security. I apologize for any inconvenience this change may have caused.
+I wanted to let you know that I had to set the old Git repository (from August 2024) to private for specific reasons related to data integrity and security. I apologize for any inconvenience this change may have caused.
 
 To ensure you still have access to everything, I've created a new repository. You can find it at the following link:
 
@@ -217,7 +217,7 @@ to capture complex meanings and nuances in texts more effectively than previous 
 
 #### Code and Examples
 
-The Python file hugging_face_entiment/simple_sentiment_hugging_face.py contains a simple implementation of BERT and loads a pre-trained model for sentiment analysis.
+The Python file hugging_face_entiment/simple_sentiment_hugging_face_bert.py contains a simple implementation of BERT and loads a pre-trained model for sentiment analysis.
 
 #### 1. Loading the Pre-trained Model and Tokenizer
 
@@ -295,7 +295,7 @@ Sentiment: positive (Confidence: 0.9615)
 10. Das Support-Team schien verwirrt und hat nicht wirklich geholfen.
 Sentiment: negative (Confidence: 0.9912)
 
-### Custom Finetuned Model Analysis
+### Custom Finetuned BERT Model Analysis
 
 Fine-tuning a BERT model allows us to adapt the general-purpose, pre-trained BERT architecture to a specific task or dataset.
 While BERT is pre-trained on massive amounts of general language data, fine-tuning helps it perform better on specific tasks—like sentiment analysis for German customer feedback in this project.
@@ -308,7 +308,7 @@ By tailoring BERT to our dataset, we aim to increase model accuracy and better u
 We split the task of applying a custom fine-tuned BERT model into two scripts. In the first script, the custom fine-tuned BERT model is trained and saved.
 In the second script, we load the custom fine-tuned model and use it to evaluate our new datasets.
 
-##### Generate Custome Finetuned Model
+##### Generate Custome Finetuned BERT Model (finetune_model.py)
 
 #### 2. Load labeled CSV-Dataset
 
@@ -381,3 +381,10 @@ In the second script, we load the custom fine-tuned model and use it to evaluate
     model.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
     tokenizer.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
 
+##### Use Custome Finetuned BERT Model (use_finetuned_hugging_face_bert.py)
+
+This Python script processes text data from a CSV file to perform sentiment analysis using a pre-trained transformer model.
+This script is designed for batch sentiment analysis, making it useful for applying a machine learning model to a large number
+of text entries in a CSV file and saving the results in an output file
+
+Here’s a breakdown of each function:
