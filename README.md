@@ -1,5 +1,18 @@
 # 📊 German Sentiment Analysis for Service Desk Feedback with `TextBlob-de`, Hugging Face's BERT, and Custom Self-Trained Models
 
+Hi everyone,
+
+I wanted to let you know that I had to set the old Git repository to private for specific reasons related to data integrity and security. I apologize for any inconvenience this change may have caused.
+
+To ensure you still have access to everything, I've created a new repository. You can find it at the following link:
+
+[https://github.com/emilh7279/german-sentiment-feedback-analysis]
+
+Please feel free to reach out if you encounter any issues accessing the new repository or if there’s anything else I can help with. Thank you for your understanding!
+
+Best regards,
+Emil
+
 Welcome to the **German Sentiment Analysis** project, where we utilize **`TextBlob-de`**, **Hugging Face's BERT**, and **Custom Finetuned Models** for analyzing customer feedback from a service desk. The goal is to detect and classify sentiments (positive, negative, neutral) in feedback and use the results to generate Key Performance Indicators (KPIs) for tracking service desk performance and customer satisfaction.
 
 
