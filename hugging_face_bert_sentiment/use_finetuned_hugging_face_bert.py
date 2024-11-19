@@ -81,6 +81,6 @@ def apply_model_to_csv(input_csv, output_csv, model_name):
 if __name__ == "__main__":
     input_csv = "input_sentiment_data.csv"  # Pfad zur Eingabe-CSV
     output_csv = "output_sentiment_predictions.csv"  # Pfad zur Ausgabe-CSV
-    model_name = "./finetuned_model"  # Pfad zum finetunten Modell
+    model_name = "./hugging_face_bert_sentiment/finetuned_models"  # Pfad zum finetunten Modell
 
     apply_model_to_csv(input_csv, output_csv, model_name)
