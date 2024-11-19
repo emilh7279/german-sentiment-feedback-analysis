@@ -8,7 +8,7 @@ import torch
 # Lade den CSV-Datensatz
 arbeitsverzeichniss = Path.cwd()                                                            # Ermittle aktuelles Arbeitsverzeichnis
 daten_verzeichnis = str(arbeitsverzeichniss.parent) + r"\input_data\bewertete_daten"        # Finde Datenverzeichnis
-dateiname = "text.txt"                                                    # Definiere Dateiname Trainingsdaten
+dateiname = "text.txt"                                                                      # Definiere Dateiname Trainingsdaten
 file_to_open = os.path.join(daten_verzeichnis, dateiname)                                   # Kombiniere Datenverzeichis und Dateiname
 df = pd.read_csv(file_to_open, delimiter=";")
 dataset = Dataset.from_pandas(df)                                                           # Konvertiere Pandas Dataframe in Hugging Face Dataset
@@ -60,3 +60,5 @@ print(f"Evaluation results: {eval_results}")
 # Speichern des finetunten Modells
 model.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
 tokenizer.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
+
+
