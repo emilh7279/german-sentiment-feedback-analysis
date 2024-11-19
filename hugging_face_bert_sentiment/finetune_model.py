@@ -58,7 +58,7 @@ eval_results = trainer.evaluate()
 print(f"Evaluation results: {eval_results}")
 
 # Speichern des finetunten Modells
-model.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
-tokenizer.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
+model.save_pretrained("hugging_face_bert_sentiment/finetuned_models")
+tokenizer.save_pretrained("hugging_face_bert_sentiment/finetuned_models")
 
 
