@@ -388,3 +388,37 @@ This script is designed for batch sentiment analysis, making it useful for apply
 of text entries in a CSV file and saving the results in an output file
 
 Here’s a breakdown of each function:
+
+#### 1. load_csv(file_path)
+
+- Loads a CSV file from the specified file_path and returns a DataFrame (df).
+
+
+#### 2. apply_model_to_texts(texts, model, tokenizer)
+    
+This function applies a sentiment analysis model to a list of texts. Here’s how it works:
+- Initialize Predictions List: An empty list, predictions, is created to store the results.
+- Tokenize Each Text: For each text, the tokenizer converts it into tokens, preparing it for model input. It uses padding and truncation to keep the input length within a specified limit (max_length=128).
+- Run the Model: The model processes the tokenized input without updating gradients (torch.no_grad()), which conserves memory and speeds up inference.
+- Compute Probabilities: The model returns logits (raw prediction values) for each class. softmax is applied to convert these logits into probabilities.
+- Determine Prediction: The torch.argmax function finds the class with the highest probability, which is the predicted sentiment. The confidence score is extracted as the probability of this predicted class.
+- Map Predicted Class to Label: Maps the predicted class (0, 1, 2) to a sentiment label ("negative", "neutral", "positive").
+- Store Predictions: Appends each prediction as a tuple of (predicted_label, confidence) to the predictions list.
+- Returns a list of predictions for all texts.
+
+#### 3. save_predictions_to_csv(df, predictions, output_file)
+
+Adds prediction results to the original DataFrame df as new columns.
+- Sentiment: Contains the sentiment label (e.g., "negative", "neutral", "positive").
+- Confidence: Contains the confidence score for each prediction.
+- Saves this updated DataFrame to a new CSV file specified by output_file.
+
+#### 4. apply_model_to_csv(input_csv, output_csv, model_name)
+
+Main function to apply the sentiment model to a CSV file.
+- Load Model and Tokenizer: Loads a fine-tuned transformer model and its tokenizer from model_name.
+- Set Model to Evaluation Mode: Configures the model in evaluation mode (disables dropout layers).
+- Load CSV: Uses load_csv to load data from input_csv.
+- Verify Column: Ensures the DataFrame has a "Text" column; raises an error if missing.
+- Apply Model to Texts: Calls apply_model_to_texts to generate predictions on the "Text" column.
+- Save Predictions: Uses save_predictions_to_csv to save the prediction results to output_csv.
