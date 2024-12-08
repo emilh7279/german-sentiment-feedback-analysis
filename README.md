@@ -47,8 +47,8 @@ These KPIs will enable businesses to track the effectiveness of their customer s
 2.  [Usage](#usage)
     -   [TextBlob-de Sentiment Analysis](#textblob-de-sentiment-analysis)
     -   [BERT Sentiment Analysis](#bert-sentiment-analysis)
-    -   [Custom Finetuned Model Analysis](#custom-finetuned-model-analysis)
-3.  [License](#license)
+    -   [Custom Finetuned Model Analysis](#custom-finetuned-bert-model-analysis)
+3.  [License](https://github.com/emilh7279/german-sentiment-feedback-analysis/blob/master/LICENSE)
 
 ----------
 
@@ -158,21 +158,21 @@ This function evaluates the sentiment of a given German sentence and returns an 
 
 --------
 
-#### File sentiment_feedback_textblob.py
+### File sentiment_feedback_textblob.py
 This script includes, in addition to the satz_bewertung(satz) function,
 functions for reading a larger dataset in CSV format and saving the determined sentiments in a CSV file.
 
-##### Function: lade_saetze(dateiname)
+#### Function: lade_saetze(dateiname)
 This function loads sentences from a CSV file that contains feedback data. The filename is passed as a parameter,
 and the function extracts the text column from the CSV file and returns it as a list of sentences.
 
 > [!IMPORTANT]  
 > The CSV file must be placed in the input_data folder.
 
-##### Parameters:
+#### Parameters:
 dateiname: A string that specifies the name of the CSV file containing the feedback data.
 
-##### Function: speichere_ergebnisse(ergebnisse)
+#### Function: speichere_ergebnisse(ergebnisse)
 This function saves the results of an analysis into a CSV file.
 The results are stored in a structured way, making them easy to view or process later.
 
@@ -187,7 +187,7 @@ With textblob-de, the framework also provides a direct way to interpret German s
 
 --------
 
-### BERT Sentiment Analysis
+## BERT Sentiment Analysis
 
 **BERT** (Bidirectional Encoder Representations from Transformers) is a powerful deep learning model developed
 by Google for Natural Language Processing (NLP). It revolutionized the NLP field by its ability to understand
@@ -204,7 +204,7 @@ to capture complex meanings and nuances in texts more effectively than previous 
     This is done by training the model on a labeled dataset that includes examples of positive, negative, and neutral
     sentiments. Through fine-tuning, the model learns to account for specific features of the target task.
 
-##### Steps for Performing Sentiment Analysis with BERT
+### Steps for Performing Sentiment Analysis with BERT
 
 1.  **Loading the Pre-trained BERT Model**:
     -   We use the Hugging Face pipeline to load a BERT model trained for sentiment analysis. An example model for the German language is `oliverguhr/german-sentiment-bert`.
@@ -215,7 +215,7 @@ to capture complex meanings and nuances in texts more effectively than previous 
 4.  **Interpreting Results**:
     -   The predictions are analyzed to evaluate the overall sentiment of customer feedback. The obtained values can provide insights into customer satisfaction.
 
-#### Code and Examples
+### Code and Examples
 
 The Python file hugging_face_entiment/simple_sentiment_hugging_face_bert.py contains a simple implementation of BERT and loads a pre-trained model for sentiment analysis.
 
@@ -295,7 +295,7 @@ Sentiment: positive (Confidence: 0.9615)
 10. Das Support-Team schien verwirrt und hat nicht wirklich geholfen.
 Sentiment: negative (Confidence: 0.9912)
 
-### Custom Finetuned BERT Model Analysis
+## Custom Finetuned BERT Model Analysis
 
 Fine-tuning a BERT model allows us to adapt the general-purpose, pre-trained BERT architecture to a specific task or dataset.
 While BERT is pre-trained on massive amounts of general language data, fine-tuning helps it perform better on specific tasks—like sentiment analysis for German customer feedback in this project.
@@ -304,11 +304,11 @@ During fine-tuning, we further train the model on our labeled data, enabling it 
 In this project, we use a pre-trained German BERT model from the Hugging Face library and fine-tune it for sentiment classification, categorizing text into positive, negative, or neutral sentiment.
 By tailoring BERT to our dataset, we aim to increase model accuracy and better understand customer sentiment trends.
 
-#### Code and Examples
+### Code and Examples
 We split the task of applying a custom fine-tuned BERT model into two scripts. In the first script, the custom fine-tuned BERT model is trained and saved.
 In the second script, we load the custom fine-tuned model and use it to evaluate our new datasets.
 
-##### Generate Custome Finetuned BERT Model (finetune_model.py)
+### Generate Custome Finetuned BERT Model (finetune_model.py)
 
 #### 2. Load labeled CSV-Dataset
 
@@ -381,7 +381,7 @@ In the second script, we load the custom fine-tuned model and use it to evaluate
     model.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
     tokenizer.save_pretrained("finetuned_hugging_face_sentiment/finetuned_models")
 
-##### Use Custome Finetuned BERT Model (use_finetuned_hugging_face_bert.py)
+### Use Custome Finetuned BERT Model (use_finetuned_hugging_face_bert.py)
 
 This Python script processes text data from a CSV file to perform sentiment analysis using a pre-trained transformer model.
 This script is designed for batch sentiment analysis, making it useful for applying a machine learning model to a large number
