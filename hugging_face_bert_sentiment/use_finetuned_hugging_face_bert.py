@@ -7,7 +7,7 @@ import torch.nn.functional as F
 # Funktion zum Laden der CSV-Datei
 def load_csv(file_path):
     # Lese die CSV-Datei ein (Annahme: die Texte stehen in einer Spalte namens 'Text')
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, delimiter=";")
     return df
 
 
@@ -34,7 +34,7 @@ def apply_model_to_texts(texts, model, tokenizer):
         confidence = probs[0][predicted_class].item()
 
         # Zuordnung der Vorhersageklassen zu Labels (z.B. 0=negativ, 1=neutral, 2=positiv)
-        label_map = {0: "negative", 1: "neutral", 2: "positive"}
+        label_map = {0: "neutral", 1: "negativ", 2: "positiv"}
         predicted_label = label_map[predicted_class]
 
         predictions.append((predicted_label, confidence))
@@ -47,9 +47,9 @@ def save_predictions_to_csv(df, predictions, output_file):
     # Füge die Vorhersagen zur DataFrame hinzu
     df['Sentiment'] = [pred[0] for pred in predictions]
     df['Confidence'] = [pred[1] for pred in predictions]
-
+    print(df.to_string())
     # Speichere die DataFrame in eine neue CSV-Datei
-    df.to_csv(output_file, index=False)
+    df.to_csv(output_file, sep=";", index=False)
     print(f"Ergebnisse wurden in {output_file} gespeichert.")
 
 
@@ -79,8 +79,8 @@ def apply_model_to_csv(input_csv, output_csv, model_name):
 
 # Beispielausführung
 if __name__ == "__main__":
-    input_csv = "input_sentiment_data.csv"  # Pfad zur Eingabe-CSV
-    output_csv = "output_sentiment_predictions.csv"  # Pfad zur Ausgabe-CSV
+    input_csv = "feedback.csv"  # Pfad zur Eingabe-CSV
+    output_csv = "feedback_bewertet.csv"  # Pfad zur Ausgabe-CSV
     model_name = "./hugging_face_bert_sentiment/finetuned_models"  # Pfad zum finetunten Modell
 
     apply_model_to_csv(input_csv, output_csv, model_name)
