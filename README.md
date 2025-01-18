@@ -100,13 +100,13 @@ This repository provides three approaches to performing sentiment analysis on se
 The folder textblob-de contains two python files which shows the usage  of a sentiment analysis.
 
 #### File simple_textblob.py
- ##### Function: `satz_bewertung(satz)`
+ ##### Function: `analyze_sentence_sentiment(sentence)`
 
 This function evaluates the sentiment of a given German sentence and returns an assessment as **positive**, **negative**, or **neutral**. The sentiment is determined based on the **polarity** of the sentence, which is calculated through sentiment analysis.
 
 ##### Parameters:
 
--   `satz`: A string representing the German sentence to be analyzed.
+-   `sentence`: A string representing the German sentence to be analyzed.
 
 #### How it works:
 
@@ -156,7 +156,7 @@ This function evaluates the sentiment of a given German sentence and returns an 
 --------
 
 ### File sentiment_feedback_textblob.py
-This script includes, in addition to the satz_bewertung(satz) function,
+This script includes, in addition to the analyze_sentence_sentiment(sentence) function,
 functions for reading a larger dataset in CSV format and saving the determined sentiments in a CSV file.
 
 #### Function: lade_saetze(dateiname)
