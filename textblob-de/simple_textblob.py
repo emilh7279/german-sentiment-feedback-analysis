@@ -1,7 +1,7 @@
 from textblob_de import TextBlobDE as TextBlob
 
 """
-Wenn Sie unsicher sind, welche Datensätze/Modelle Sie benötigen, können Sie das "popular"-Subset der NLTK-Daten installieren.
+Wenn Sie unsicher sind, welche Datensentences/Modelle Sie benötigen, können Sie das "popular"-Subset der NLTK-Daten installieren.
 Geben Sie dazu in der Kommandozeile "python -m nltk.downloader popular" ein oder im Python-Interpreter:
 import nltk; nltk.download('popular')
 
@@ -19,14 +19,14 @@ The NLTK Toolkit (Natural Language Toolkit) needs to be uncommented during the f
 # nltk.download('popular')
 # nltk.download('punkt')
 
-def satz_bewertung(satz):
+def analyze_sentence_sentiment(sentence):
     """
     Bewertet die Stimmung eines deutschen Satzes und gibt aus, ob diese positiv, negativ oder neutral ist.
     Analyzes the sentiment of a German sentence and returns whether it is positive, negative, or neutral.
 
     Parameter:
-    satz (str): Der Satz, dessen Stimmung bewertet werden soll.
-    satz (str): The sentence whose sentiment is to be analyzed.
+    sentence (str): Der Satz, dessen Stimmung bewertet werden soll.
+    sentence (str): The sentence whose sentiment is to be analyzed.
 
     Rückgabe:
     str: Eine Nachricht mit der Stimmung und der Polarität des Satzes.
@@ -35,7 +35,7 @@ def satz_bewertung(satz):
 
     # Erstellen eines TextBlob-Objekts
     # Create a TextBlob object
-    blob = TextBlob(satz)
+    blob = TextBlob(sentence)
 
     # Analysieren der Polarität des Satzes
     # Analyze the polarity of the sentence
@@ -50,9 +50,9 @@ def satz_bewertung(satz):
     else:
         return f"Der Satz ist neutral. Polarität: {polarität}"
 
-# Testen der Funktion mit einigen Beispielsätzen
+# Testen der Funktion mit einigen Beispielsentencesn
 # Testing the function with some example sentences
-sätze = [
+sentences = [
     "Der Service war hervorragend und mein Anliegen wurde sofort geklärt.",
     "Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",
     "Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.",
@@ -67,5 +67,5 @@ sätze = [
 
 # Ausgabe der Ergebnisse für jeden Satz
 # Output the results for each sentence
-for satz in sätze:
-    print(satz_bewertung(satz))
+for sentence in sentences:
+    print(analyze_sentence_sentiment(sentence))
