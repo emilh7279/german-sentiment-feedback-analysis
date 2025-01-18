@@ -14,14 +14,18 @@ NLTK Toolkit Natural Language Toolkit muss vor dem beim ersten Ausführen des Co
 def satz_bewertung(satz):
 
     # Bewertet die Stimmung eines deutschen Satzes (positiv, negativ oder neutral).
+    #
 
     # Erstellen eines TextBlob-Objekts
+    # Create textblob objekt
     blob = TextBlob(satz)
 
     # Polarität des Satzes analysieren
+    # Analyse polarity
     polarität = blob.sentiment.polarity
 
     # Stimmungsbewertung basierend auf Polarität
+    # Sentiment and Polarity
     if polarität > 0:
         return f"Der Satz ist positiv. Polarität: {polarität}"
     elif polarität < 0:
@@ -31,6 +35,7 @@ def satz_bewertung(satz):
 
 
 # Testen mit einigen Beispielsätzen
+# Testing sentences
 sätze = [
     "Der Service war hervorragend und mein Anliegen wurde sofort geklärt.",
     "Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",
