@@ -1,0 +1,937 @@
+Text;label
+Der Service war super;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das SupportTeam schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Fantastischer Service! Mein Problem wurde sofort gelöst.;2
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.;0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.;0
+Es hat zu lange gedauert und niemand konnte mir helfen.;0
+Der Support war sehr hilfsbereit und hat mein Problem schnell gelöst.;2
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.;0
+Mein Anliegen wurde ignoriert und nicht gelöst. Sehr unzufrieden.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Insgesamt eine gute Erfahrung,  hätte aber schneller sein können.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Prozess war etwas langwierig,  aber das Endergebnis war in Ordnung.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Der Vorgang war unkompliziert,  aber ich musste etwas länger warten.;1
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Ich bin sehr zufrieden mit dem Service,  mein Problem wurde sofort behoben.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Ich musste stundenlang warten,  bis sich jemand bei mir gemeldet hat. Sehr frustrierend.;0
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Ich bin wirklich beeindruckt,  wie schnell mein Problem gelöst wurde.;2
+Das Team hat großartige Arbeit geleistet,  alles war super.;2
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Schlechter Kundenservice,  niemand hat auf meine Anfragen geantwortet.;0
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Lösung war in Ordnung,  aber der Prozess war etwas langsam.;1
+Hervorragender Kundenservice,  sehr freundlich und effizient!;2
+Die Bearbeitung war schnell,  aber die Lösung war unklar.;1
+Es war okay, nicht das Beste, aber das Problem wurde gelöst;1

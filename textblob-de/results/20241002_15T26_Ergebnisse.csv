@@ -1,0 +1,11 @@
+Satz,Stimmung,Polarität
+Der Service war hervorragend und mein Anliegen wurde sofort geklärt.,positiv,1.0
+"Der Prozess war etwas langwierig, aber das Endergebnis war in Ordnung.",neutral,0.0
+Der Mitarbeiter war sehr unhöflich und mein Problem wurde nicht behoben.,negativ,-1.0
+"Schlechter Kundenservice, niemand hat auf meine Anfragen geantwortet.",negativ,-1.0
+Der Service hat zu lange gebraucht und mein Problem nicht gelöst.,neutral,0.0
+"Ich bin wirklich beeindruckt, wie schnell mein Problem gelöst wurde.",positiv,0.85
+Fantastischer Service! Mein Problem wurde sofort gelöst.,positiv,0.5
+Es hat zu lange gedauert und niemand konnte mir helfen.,positiv,0.7
+"Es war okay, nicht das Beste, aber das Problem wurde gelöst.",neutral,0.0
+Das Support-Team schien verwirrt und hat nicht wirklich geholfen.,negativ,-0.75
