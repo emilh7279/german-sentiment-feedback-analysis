@@ -37,7 +37,7 @@ def load_sentences(filename):
     sentences = df['Feedback_Text'].tolist()
     return sentences
 
-def analyse_sentences(sentences):
+def analyze_sentences(sentences):
     """
     Funktion: Analysiert eine Liste von Sätzen und gibt die Ergebnisse zurück.
     iteriert über die Sätze aus der Liste / pandas Dataframe und übergibt sie an Funktion
@@ -69,7 +69,7 @@ def save_results(results):
 sentences =  load_sentences("feedback.csv")
 
 # Sätze analysieren
-results = analyse_sentences(sentences)
+results = analyze_sentences(sentences)
 
 # Ergebnisse speichern
 save_results(results)
